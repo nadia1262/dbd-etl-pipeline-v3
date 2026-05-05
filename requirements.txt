@@ -1,0 +1,12 @@
+pandas==2.1.4
+numpy==1.26.4
+scipy==1.11.4
+SQLAlchemy==1.4.51
+pymysql==1.1.0
+psycopg2-binary==2.9.9
+apache-airflow==2.8.1
+openpyxl==3.1.2
+python-dotenv==1.0.0
+Flask-Session<0.6.0
+geopandas==0.14.2
+shapely==2.0.2

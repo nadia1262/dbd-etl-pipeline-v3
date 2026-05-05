@@ -1,0 +1,48 @@
+# Environment
+.env
+venv/
+venv_v3/
+venv_wsl/
+
+# Airflow
+airflow_home/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temp
+temp/
+*.log
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db# Environment
+.env
+venv/
+venv_v3/
+venv_wsl/
+
+# Airflow
+airflow_home/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temp
+temp/
+*.log
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Metabase (exclude runtime & binaries)
+metabase/
+*.jar
+*.db
+*.mv.db
+*.trace.db
