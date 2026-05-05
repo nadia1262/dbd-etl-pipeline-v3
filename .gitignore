@@ -46,3 +46,11 @@ metabase/
 *.db
 *.mv.db
 *.trace.db
+
+CONTEXT.md
+DEEP_DIVE_PIPELINE_V3.md
+LAPORAN_UTS_TIM9.md
+PANDUAN_EKSEKUSI_PIPELINE_V3.md
+RECOVERY_GUIDE.md
+SETUP_GUIDE.md
+dwh_dbd_v3_backup.sql
